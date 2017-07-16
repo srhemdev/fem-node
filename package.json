@@ -1,0 +1,12 @@
+{
+	"name": "helloworld-shweta",
+	"version": "0.0.1-a",
+	"description": "hello world-shweta",
+	"main": "./helloworld-shweta.js",
+	"keywords": [
+		"hello",
+		"world"
+	],
+	"author": "Kyle Simpson <getify@gmail.com>",
+	"license": "MIT"
+}
